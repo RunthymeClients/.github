@@ -1,4 +1,6 @@
-<h1 align="center">RunThyme Software</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RunthymeClients/.github/main/profile/runthyme-lockup.png" alt="RunThyme Software" width="460">
+</p>
 
 <p align="center"><em>Opinionated about process, agnostic about substrate.</em></p>
 
