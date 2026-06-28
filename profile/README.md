@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/RunthymeClients/.github/main/profile/runthyme-lockup.png" alt="runthyme" width="460">
 </p>
 
-<p align="center"><em>opinionated about process, agnostic about substrate.</em></p>
+<p align="center"><em>opinionated about process. agnostic about substrate.</em></p>
 
 <p align="center">
 runthyme builds software with AI assistance.<br>
@@ -11,21 +11,23 @@ this organization holds the client project repositories we ship and maintain.
 
 ---
 
-### the work
+### // the work
 
 software and the systems around it — scoped, built, deployed, and maintained
-directly. each engagement gets its own repository here, kept private to that client.
+directly. you work with the person building it; no handoffs, no call centers.
+each engagement gets its own repository here, kept private to that client.
 
-### the process
+### // how we work
 
-- **opinionated** — AI-assisted, serverless-first, postgres-by-default, strangler-fig over rewrites
-- **agnostic** — language and cloud chosen per engagement, not per habit
-- **direct** — you work with the person building it. no handoffs, no call centers.
+ai-assisted development is the operating model, not a marketing line. the process
+is opinionated; the substrate is not.
 
-### elsewhere
+`ai-assisted · serverless-first · postgres-by-default · strangler-fig over rewrites · cite sources, don't guess`
 
-**[runthyme.com](https://runthyme.com)** · thomas@runthyme.com
+### // contact
+
+**[runthyme.com](https://runthyme.com)** · info@runthyme.com
 
 ---
 
-<sub>runthyme software — a division of verdant thyme llc.</sub>
+<sub>RunThyme Software — A division of Verdant Thyme LLC · Kenly, NC.</sub>
