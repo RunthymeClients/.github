@@ -1,33 +1,31 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RunthymeClients/.github/main/profile/runthyme-lockup.png" alt="RunThyme Software" width="460">
+  <img src="https://raw.githubusercontent.com/RunthymeClients/.github/main/profile/runthyme-lockup.png" alt="runthyme" width="460">
 </p>
 
-<p align="center"><em>Opinionated about process, agnostic about substrate.</em></p>
+<p align="center"><em>opinionated about process, agnostic about substrate.</em></p>
 
 <p align="center">
-Custom websites and software for small businesses —<br>
-designed, built, deployed, and maintained end to end.
+runthyme builds software with AI assistance.<br>
+this organization holds the client project repositories we ship and maintain.
 </p>
 
 ---
 
-### What we build
+### the work
 
-- **Websites &amp; web apps** — fast, modern, and built to last
-- **Hosting &amp; deployment** — managed on modern edge infrastructure
-- **Ongoing maintenance** — updates, fixes, and changes handled for you
-- **The essentials** — domains, professional email, analytics, and SEO
+software and the systems around it — scoped, built, deployed, and maintained
+directly. each engagement gets its own repository here, kept private to that client.
 
-### How we work
+### the process
 
-Every project is scoped, built, and supported directly — no handoffs, no call
-centers, no surprises. Each client gets their own repository in this
-organization, kept **private** to that engagement.
+- **opinionated** — AI-assisted, serverless-first, postgres-by-default, strangler-fig over rewrites
+- **agnostic** — language and cloud chosen per engagement, not per habit
+- **direct** — you work with the person building it. no handoffs, no call centers.
 
-### Get in touch
+### elsewhere
 
 **[runthyme.com](https://runthyme.com)** · thomas@runthyme.com
 
 ---
 
-<sub>This organization hosts client project repositories maintained by RunThyme Software.</sub>
+<sub>runthyme software — a division of verdant thyme llc.</sub>
